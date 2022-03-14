@@ -1,2 +1,2 @@
 # Leetcode_daily_codes
-leetcode daily problems 2022
+The repository for leetcode daily problems solution 2022
